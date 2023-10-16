@@ -1,0 +1,13 @@
+{
+  "name": "ar-js-example",
+  "version": "1.0.0",
+  "description": "This proyect is an example of AR using",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
