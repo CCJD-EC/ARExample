@@ -4,11 +4,14 @@
   "description": "This proyect is an example of AR using",
   "homepage": "https://ccjd-ec.github.io/ARExample/",
   "scripts": {
-    "start": "node server.js"
+    "deploy": "gh-pages -d assets"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
   }
 }
