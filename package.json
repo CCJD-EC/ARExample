@@ -2,7 +2,7 @@
   "name": "ar-js-example",
   "version": "1.0.0",
   "description": "This proyect is an example of AR using",
-  "homepage": "https://ccjd-ec.github.io/ARExample/"
+  "homepage": "https://ccjd-ec.github.io/ARExample/",
   "scripts": {
     "start": "node server.js"
   },
