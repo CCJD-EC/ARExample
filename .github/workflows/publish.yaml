@@ -46,7 +46,7 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           artifact-name: github-pages
-          path: assets     
+          path: dist     
   deploy:
     environment:
       name: github-pages

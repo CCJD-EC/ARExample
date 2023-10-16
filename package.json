@@ -4,7 +4,7 @@
   "description": "This proyect is an example of AR using",
   "homepage": "https://ccjd-ec.github.io/ARExample/",
   "scripts": {
-    "deploy": "gh-pages -d assets"
+    "deploy": "gh-pages -d dist"
   },
   "author": "",
   "license": "ISC",
