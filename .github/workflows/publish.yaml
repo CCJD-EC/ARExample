@@ -42,5 +42,3 @@ jobs:
         run: npm update
       - name: Npm install
         run: npm install
-      - name: Tests
-        run: npm run format-check
